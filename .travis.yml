@@ -30,5 +30,6 @@ deploy:
 
 sudo: false
 
+
 notifications:
   slack: azured:PleVuyAMUhA8lOsGrQWAxVyi
