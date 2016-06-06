@@ -15,10 +15,10 @@ script:
      - sphinx-build -nW -b dirhtml -d _build/doctrees source _build/html
 
 before_deploy:
-  - mv ~/build/AzuredIO/Website-sphinx/_build/html/* ~/build/AzuredIO/Website-sphinx/
-  - rm -rf ~/build/AzuredIO/Website-sphinx/_build
-  - rm -rf ~/build/AzuredIO/Website-sphinx/_sources
-
+  - mv ~/build/Cloudry/Website-sphinx/_build/html/* ~/build/Cloudry/Website-sphinx/
+  - rm -rf ~/build/Cloudry/Website-sphinx/_build
+  - rm -rf ~/build/Cloudry/Website-sphinx/_sources
+#Cloudry/Website-sphinx
 deploy:
   skip_cleanup: true
   provider: azure_web_apps
