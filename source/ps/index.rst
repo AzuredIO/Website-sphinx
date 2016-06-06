@@ -9,3 +9,4 @@ Contents:
   introduction
   gettingstarted
   resourcegroups
+  templates
