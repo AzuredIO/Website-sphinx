@@ -1,5 +1,5 @@
-Azure PowerShell
-================
+Infrastructure as Code
+======================
 
 Contents:
 
