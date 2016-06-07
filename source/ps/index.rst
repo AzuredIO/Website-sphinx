@@ -1,5 +1,5 @@
-Azure PowerShell
-================
+Infrastructure as Code
+======================
 
 Contents:
 
@@ -9,3 +9,4 @@ Contents:
   introduction
   gettingstarted
   resourcegroups
+  templates
